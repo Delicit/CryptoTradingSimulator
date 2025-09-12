@@ -6,3 +6,10 @@ since i could not find free API's for everyone, you have to have bybit account, 
     "SecretKey": "yourkey"
   }
 }
+you can download .rar or just files, if second -
+also create folders (same hierarchy as written) - 
+1)runtimes
+2)browser
+3)lib
+4)net8.0
+and put there System.Text.Encodings.Web in last folder
