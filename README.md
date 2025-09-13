@@ -1,4 +1,4 @@
-since i could not find free API's for everyone, you have to have bybit account, create read-only API, and then maybe you can experiment with this, i actually dont really know actual required permissions, maybe api only without basically anything, for myself i've decided on everything exept account info, and when it requires - paste keys into console. If there is no question about bybit api - create appsettings.json, with this:
+since i could not find free API's for everyone, you have to have bybit account or coingecko account, create API or read-only API for bybit, and then maybe you can experiment with this, i actually dont really know actual required permissions, maybe api only without basically anything, for myself i've decided on everything except account info, and when it requires - paste keys into console / gui. If there is no question about bybit api in console - create appsettings.json, with this:
 
 {
   "BybitApi": {
