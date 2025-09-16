@@ -11,6 +11,8 @@ since i could not find free API's for everyone, you have to have bybit / polygon
     "SecretKey": "yourkey"
   }
 }
+
+
 you can download .rar or just files, if second -
 also create folders (same hierarchy as written) - 
 1)runtimes
